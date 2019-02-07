@@ -1,0 +1,13 @@
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.deps.json
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\bin\Debug\netcoreapp2.1\WebApi.pdb
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.dll
+C:\Users\miche\Documents\Visual Studio 2017\Projects\MichelPauzner.CrudExample.NetCoreApi\WebApi\obj\Debug\netcoreapp2.1\WebApi.pdb
